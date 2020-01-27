@@ -116,10 +116,11 @@ HEADER
 ***********************************/
 
 .header {
-  background: url('https://photos.app.goo.gl/yNGbfADWGXmvwZ9s9') no-repeat fixed;
+  background: url('https://lh3.googleusercontent.com/vq4O2C0UtJJ-t_6szsXS8u-RF-sBxRrlM1y84CABMH3ZHDlkPixLcQd_sbVq3X4LG3oKd3FFem9pTbsoddK_dQ9I9vmNv4x2VE0zGuz9xkW8LKi6eteLR1UwYrIL86l9IUzRJthAy3Rm4t9-SfAHx4nl1u65u93nV0ryT4F-_U-luFZNdPnx4aVofdUTQXe1amaS-HIYDxHNWXU8hksmrGtvD6I_CKO_buUlcSZK9Bu4FXc8lVSp_jC5XeUA0qbxfndqUQyPcLI74R28QqogqkTU1DRLuy2WIdCuIRcb2Jk9NSpoCT9QDr4yFgDvmmny-RLvT8Bm2HiABSBvxYWSwaUK21DmTI7c2TmvZAJ9W5-wx5EUq0wKmFYmae68AiTzvcfk6C2via7EBKG1SiHfkJj0r-Cy2CJdyjS-MUaHH0JvcBoKDmhzn6TMdekH4etlkwpzpwo8hENm1fMBfvB9yC0831BCaMDIctHlka9R1Bv5JM48YZ00dwUxuqk2I2ZcLIK-lLQU1oP6LkSEjukOeiDIIPgcSEyXkbabz233sTgr_8nUibx32DDDt_siQbyKWzLHMBxFyuj54gn8RYn34noNM5dnG7rVTjGg2xEJ8tCcgDHXOBqlAq1qHRDnFbNywnY7T8GF3Qr9hRn9z1oCHL0jPPx8Y7-iv77x-2Xb_4wWFmFmsyUwq0c=w739-h442-no') no-repeat fixed;
   background-size: cover;
-  min-height: 650px;
+  min-height: 60px;
   position: relative;
+  width: 100%;
 }
 
 .bg-color {
